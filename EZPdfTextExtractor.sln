@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32120.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZPdfTextExtractor", "EZPdfTextExtractor\EZPdfTextExtractor.csproj", "{D2A8C8CE-36D1-4860-B59D-D22E0B6BECDA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_EZPdfextractor", "Setup_EZPdfextractor\Setup_EZPdfextractor.vdproj", "{291F3838-48A5-40CA-A650-4C001983BB01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A8C8CE-36D1-4860-B59D-D22E0B6BECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A8C8CE-36D1-4860-B59D-D22E0B6BECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A8C8CE-36D1-4860-B59D-D22E0B6BECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A8C8CE-36D1-4860-B59D-D22E0B6BECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291F3838-48A5-40CA-A650-4C001983BB01}.Debug|Any CPU.ActiveCfg = Debug
+		{291F3838-48A5-40CA-A650-4C001983BB01}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2F61D7-D6BB-4A97-8D77-28932845F401}
+	EndGlobalSection
+EndGlobal
